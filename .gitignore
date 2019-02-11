@@ -1,3 +1,12 @@
+# ignore all
+*
+
+# unignore all with extensions
+!*.*
+
+# ignore template.cpp
+template.cpp
+
 # Prerequisites
 *.d
 
